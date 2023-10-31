@@ -20,3 +20,11 @@ git commint -m "comment text"
 
 git status 
 показывает какие файлы отслеживаемые, какие нет.
+
+
+
+Активация виртуального окружения
+Для Windows (PowerShell):
+venv\Scripts\activate.ps1
+Для Windows (cmd):
+venv\Scripts\activate.bat
